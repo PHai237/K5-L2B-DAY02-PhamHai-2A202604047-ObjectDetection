@@ -24,4 +24,4 @@
 | --- | --- | --- | --- |
 | `drive_019` | Hai xe bus ở góc ảnh chồng lên nhau, dễ tưởng là box trùng | Giữ cả hai box bus | Có hai xe riêng biệt nên mỗi xe cần một box |
 | `drive_040` | Nhiều xe đứng sát nhau, một số bị che gần hết thân xe | Vẽ riêng từng xe còn nhận diện được | Không gộp các xe vào một box, chỉ lấy phần nhìn thấy |
-| `drive_050` | Một xe trắng dạng minibus dễ nhầm giữa bus và van | Gán bus nếu xác nhận đây là xe chở khách dạng bus | Dựa vào kiểu thân và khoang hành khách, không chỉ kích thước |
+| `drive_050` | Xe bus lớn bị cắt một phần ở mép dưới ảnh | Giữ nhãn bus, box dừng ở mép ảnh | Xe vẫn nhận diện được, không cần đoán phần nằm ngoài ảnh |
