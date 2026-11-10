@@ -1,7 +1,5 @@
 # Mini guideline — bài làm cá nhân
 
-> Điền nội dung này trước khi bắt đầu gán nhãn. Giữ lại các quyết định sau khi self-QC.
-
 ## Định nghĩa lớp
 
 | Lớp | Định nghĩa của bạn | Ví dụ/điểm phân biệt |
